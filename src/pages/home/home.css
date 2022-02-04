@@ -85,6 +85,22 @@
     transform: scale(1.05);
 }
 
+.footer{
+    position: absolute;
+    display: flex;
+    bottom: 0;
+}
+.titulo-footer{
+    color: #fff;
+    font-size: 18px;
+}
+.copyright{
+    color: #20e4e4;
+    text-decoration: none;
+}
+.copyright:hover{
+    color: #23baba;
+}
 
 @media (max-width: 615px){
     .logo img{

@@ -36,7 +36,7 @@ export default function Home(){
       <div className="container-home">
         <div className="logo">
           <img src="/logo.png" alt="Sujeito Link Logo"/>
-          <h1>SujeitoLink</h1>
+          <h1>EncurtaLink</h1>
           <span>Cole seu link para encurtar 👇</span>
         </div>
 
@@ -59,6 +59,10 @@ export default function Home(){
           content={data}
           />
         )}
+
+        <footer className='footer'>
+          <h2 className='titulo-footer'> Site desenvolvido com ❤️ por <a className='copyright' href='https://github.com/DarioRJunior' target='_blank'> Dario.Code</a></h2>
+        </footer>
 
       </div>
     )
