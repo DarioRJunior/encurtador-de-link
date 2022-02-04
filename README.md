@@ -13,7 +13,8 @@ Projeto: 🚀Concluido
 
 ## 💻 Objetivo
  
- Página criada para você poder encurtar todos os seus links, ela foi criada na Semana React JS do Sujeito Programador! 
+ Página criada para você poder encurtar todos os seus links, ela foi criada na Semana React JS do Sujeito Programador!
+ Site da página disponivel em: https://encurtador-de-link-ten.vercel.app/
 
 
 ## 🛠 Tecnologias
